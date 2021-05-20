@@ -1,0 +1,28 @@
+.logo a::before{
+    border-top: 4px solid #ec1839;
+    border-left: 4px solid #ec1839;
+}
+.logo a::after{
+    border-right: 4px solid #ec1839;
+    border-bottom: 4px solid #ec1839;
+}
+
+.contact .contact-info-item .icon .fa,
+.portfolio .portfolio-item .portfolio-info .icon .fa,
+.service .service-item .service-item-inner .icon .fa,
+.about .about-content .about-text h3 span{
+    color: #ec1839;
+}
+
+.nav-toggler span,
+.nav-toggler span::before,
+.nav-toggler span::after,
+.service .service-item .service-item-inner:hover .icon,
+.service .service-item .service-item-inner:hover .icon,
+.section-title h2::after,
+.section-title h2::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.home .social-links a{
+    background-color: #ec1839;
+}
